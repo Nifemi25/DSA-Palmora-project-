@@ -4,5 +4,10 @@
 ## Project Topic: Palmora Group HR Analysis 
 
 ### Project overview
-The analysis was initiated a reputational crisis related to gender disparity. It required cleaning and preprocessing the HR dataset, analyzing gender distribution across departments and regions, evaluating compliance with new salary regulations, visualizing salary distribution in $10,000 bands, Calculating employee bonuses based on performance ratings
+The analysis was initiated a reputational crisis related to gender disparity. It required cleaning and preprocessing the HR dataset, analyzing gender distribution across departments and regions, evaluating compliance with new salary regulations, visualizing salary distribution in $10,000 bands, Calculating employee bonuses based on performance ratings.
+
+### Tools used 
+- Power query 
+
+
  
