@@ -14,7 +14,7 @@ The analysis was initiated a reputational crisis related to gender disparity. It
 ### Steps taken 
 - Data cleaning
   
-  Used power query editor to clean raw data, replaced empty gender with "prefer not to say", removed null under department and salary. Transposed the bonus data and then merged the employee data with the bonus data, created a new custom column for the new salary and bonus, replaced the null for those not rated under the rating. Converted data types to appropriate format, created a conditional column for salary band ( 0-10000,10001-20000 etc )
+  Used power query editor to clean raw data, replaced empty gender with a generic gender status which is  "prefer not to say", removed null under department and salary. Transposed the bonus data and then merged the employee data with the bonus data, created a new custom column for the new salary and bonus, replaced the null for those not rated under the rating. Converted data types to appropriate format, created a conditional column for salary band ( 0-10000,10001-20000 etc )
   Viewed the table under the model view then connected the both table using the department which has a many to many relationship.
 
  -Data visualization 
