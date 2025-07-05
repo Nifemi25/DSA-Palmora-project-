@@ -1,5 +1,5 @@
 # DSA-Palmora-project-
- This project involves a comprehensive HR data analysis for Palmora Group, a manufacturing company based in Nigeria, to uncover and address gender inequality issues across its three operational regions. 
+ This project involved a comprehensive HR data analysis for Palmora Group, a manufacturing company based in Nigeria, to uncover and address gender inequality issues across its three operational regions. 
 
 ## Project Topic: Palmora Group HR Analysis 
 
@@ -12,7 +12,7 @@ The analysis was initiated a reputational crisis related to gender disparity. It
 - Report view for visualization ( cluster chart, pie chart, doghnut chart, map chart, bar chart, card, slicer etc)
 
 ### Steps taken 
-- 
+## Data cleaning 
 - 
 
 
