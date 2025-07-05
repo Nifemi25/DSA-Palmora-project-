@@ -32,12 +32,6 @@ The analysis was initiated a reputational crisis related to gender disparity. It
 
 ## Outcome 
 [Download Here](https://github.com/Nifemi25/DSA-Palmora-project-/raw/refs/heads/main/Palmora%20Group(HR%20Analysis).pbix) 
-   
-
-    
-  
-
-- 
 
 
  
